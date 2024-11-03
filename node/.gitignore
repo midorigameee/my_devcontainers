@@ -1,0 +1,8 @@
+# すべてのファイルとフォルダを無視
+/*
+
+# .gitignoreで無視しないようにする
+!.gitignore
+
+# .devcontainerフォルダを無視しない
+!/.devcontainer
